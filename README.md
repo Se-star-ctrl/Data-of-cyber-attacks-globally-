@@ -37,8 +37,8 @@ seaborn	Statistical visualisations
 🚀 Getting Started
 1. Clone the repo
 bash
-git clone https://github.com/your-username/cyber-attacks-dataset.git
-cd cyber-attacks-dataset
+git clone https://github.com/Se-star-ctrl/Data-of-cyber-attacks-globally-.git
+cd Data-of-cyber-attacks-globally-
 2. Install dependencies
 bash
 pip install pandas numpy matplotlib seaborn openpyxl
